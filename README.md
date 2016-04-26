@@ -1,22 +1,4 @@
-# Eightball
-React frontend consuming Rails JSON API
+# BMI Calculator
 
-### To install:
-
-```
-git clone https://github.com/kkchu791/eightball.git
-webpack-dev-server
-```
-
-### To start API:
-
-```
-git clone https://github.com/kkchu791/responseAPI.git
-bundle install
-bundle exec rake db:create
-bundle exec rake db:migrate
-bundle exec rake db:seed
-rails s -p 3001
-```
-
+Check out your BMI with this React App.
 
